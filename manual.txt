@@ -1,0 +1,56 @@
+====================MANUAL DE UNIX========================
+X  ls --> listado de archivos y carpetas 
+X  cd --> (nombre dir) cambio de directorio 
+X  cd ..  --> subir al directorio madre
+X  cd .  --> subir al home
+X  pwd -->present working directory
+X  rm   -->borrar archivos 
+X  rm .jpg
+X  rm * --> borrar todo lo de ese archivo                                                                              oooooooooooooooooooooooo
+X  rm -r --> borrarr todo hasta tu alama                                                                              oooooooooooooooooooooooooo
+X  rmdir --> borrar directorios                                                                                      oooooooooooooooooooooooooooo
+X  mkdir --> hacer un directorio                                                                                    oooooooooooooooooooooooooooooo
+X  ps -ef --> muestra los procesos                                                                                 oooooooooooooooooooooooooooooooo
+X  kill _9 --> PID:Procees ID                                                                                     oooooooooooooooooooooooooooooooooo
+X  vi  --> llamar al manual de texto                                                                             oooooooooooooooooooooooooooooooooooo
+===========================================================                                                     ooooooooooooooooooooooooooooooooooooooo
+                                                                                                              oooooooooooooooooooooooooooooooooooooooooo
+=====================MANUAL-DE-VI========================                                                    oooooooooooooooooooooooooooooooooooooooooooo
+X  esc --> salir de modo escritura                                                                          oooooooooooooooooooooooooooooooooooooooooooooo
+X  R --> modo escritura reemplazado                                                                         oooooooooooooo                  oooooooooooooo
+X  i --> modo escritura insertado                                                                           oooooooooooooo                  oooooooooooooo
+X  x --> barrado de letras                                                                                  oooooooooooooo                  oooooooooooooo   
+X  dd --> borrado de renglon                                                                                oooooooooooooo                  oooooooooooooo
+X  D --> borrar apartir de este punto                                                                       oooooooooooooo                  oooooooooooooo
+X  o --> abrir renglon abajo                                                                                oooooooooooooo                  oooooooooooooo
+X  O --> abrir renglos arriba                                                                               oooooooooooooo                  oooooooooooooo
+X  :q --> salir                                                                                             oooooooooooooo                  oooooooooooooo
+X  :wq --> guardar y salir                                                                                  oooooooooooooooooooooooooooooooooooooooooooooo
+X  :w -->guardar                                                                                            oooooooooooooooooooooooooooooooooooooooooooooo
+X  :q! --> salir sin guadar                                                                                 oooooooooooooooooooooooooooooooooooooooooooooo
+X  / (PALABRA) --> busca palabra                                                                            oooooooooooooooooooooooooooooooooooooooooooooo
+X  n --> proxima apricion de plabra                                                                         ooooooooooooooo                 oooooooooooooo
+X  N --> anterior aparicion de palabra                                                                      ooooooooooooooo                 oooooooooooooo
+X  :100 --> ir a la linea 100                                                                               ooooooooooooooo                 oooooooooooooo
+X  :$ --> ir a la ultima linea                                                                              ooooooooooooooo                 oooooooooooooo
+==========================================================                                                  ooooooooooooooo                 oooooooooooooo
+                                                                                                            ooooooooooooooo                 oooooooooooooo
+==================INSTRUCTIVO DE GIT======================                                                  ooooooooooooooo                 oooooooooooooo
+X  git clone (url de repositorio)                                                                           ooooooooooooooo                 oooooooooooooo
+X  git add (archivo) . ---> es para muchos archivos                                                         ooooooooooooooo                 oooooooooooooo
+X  git commit -m -----> Instructivo                                                                         ooooooooooooooo                 oooooooooooooo
+X  git push                                                                                                 ooooooooooooooo                 oooooooooooooo
+X  mv (archivo) (nueva direccion) ---> camboia de lugar el archivo
+X  git config --global user.name() ---> para configurar tu nombre
+X  git config --global user.email() ---> para configurar el correo 
+X
+X
+X
+=====================================================================
+
+
+
+
+
+
+
