@@ -1,3 +1,11 @@
+==========================================================
+            ABNER ALFREDO MARTINEZ CASTAÑEDA
+==========================================================
+
+             PARADIGMAS DE PROGRAMACION
+               MATEMATICA ALGORITMICA
+                ESFM-IPN SEP-2023
+
 ====================MANUAL DE UNIX========================
 X  ls --> listado de archivos y carpetas 
 X  cd --> (nombre dir) cambio de directorio 
