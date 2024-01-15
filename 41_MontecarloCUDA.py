@@ -42,10 +42,15 @@ N = 262144
 hilosporbloque = 128
 bloques = int(N/hilosporbloque)
 
-#+++++++++++++++++++
+#+++++++++++++++++
 # Semilla 
 #+++++++++++++++++++
-seed = random.randint(-1000, 1000)
+seed1 = random.uniform(-1,1)
+print(seed1)
+seed2 = random.seed(seed1)
+print(seed2)
+seed = random.randit(-1000,1000)
+print(seed)
 rng_states = create_xoroshiro128p_states(hilosporbloque*bloques, seed)
 
 #+++++++++++++++++++++++++++++++++
