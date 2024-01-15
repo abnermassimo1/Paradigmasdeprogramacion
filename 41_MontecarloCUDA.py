@@ -49,7 +49,7 @@ seed1 = random.uniform(-1,1)
 print(seed1)
 seed2 = random.seed(seed1)
 print(seed2)
-seed = random.randit(-1000,1000)
+seed = random.randint(-1000,1000)
 print(seed)
 rng_states = create_xoroshiro128p_states(hilosporbloque*bloques, seed)
 
@@ -62,4 +62,4 @@ out = np.zeros(hilosporbloque*bloques, dtype=np.float64)
 # Correr en paralelo el kernel de CUDA 
 #+++++++++++++++++++++++++++++++++++++++++
 calcularpi_kernel[bloques, hilosporbloque](rng_states, 100000, out)
-print('pi:', out.astype(np.float64).mean())
+print('pi:', out.mean())
